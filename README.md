@@ -30,7 +30,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performace**
 - **Sales Trends**
 
-These insights empower stakeholders with key business metrics, enalbing strategic decision-making.
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
 
