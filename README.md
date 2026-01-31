@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hello! I'm **Grahvex**. I'm an aspiring Data Analyst and passionate learner who is on a mission to increase my current skillset and hopefully inspire someone elso to do the same!
+Hello! I'm **Grahvex**. I'm an aspiring Data Analyst and passionate learner who is on a mission to increase my current skillset and hopefully inspire someone else to do the same!
